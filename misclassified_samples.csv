@@ -1,0 +1,79 @@
+marital_status,application_order,course,course_time,education_level,admission_grade,is_displaced,is_debtor,is_tuition_paid,gender,is_scholarship_holder,age_at_enrollment,s1_grade,s2_credited,s2_evaluated,s2_approved,s2_grade,s2_not_evaluated,gdp,true_label,predicted_label,is_correct
+single,1,Management,daytime,Secondary,49.0,1,0,1,male,0,23,57.00000000000001,0,7,4,55.00000000000001,0,2.02,0,1,False
+married,2,Management,daytime,Higher education (diploma),51.7,0,0,1,female,0,30,58.75,3,12,7,55.7142857,0,-1.7,1,0,False
+single,1,Management,daytime,Secondary,56.00000000000001,0,0,1,male,0,22,55.99999999999999,5,14,7,56.25,2,-1.7,1,0,False
+married,1,Equinculture,daytime,Basic 3rd cycle (9th-11th),60.0,0,0,1,male,0,53,61.25000000000001,0,8,4,58.75,0,-3.12,0,1,False
+single,1,Nursing,daytime,Secondary,63.95000000000001,1,0,1,female,1,18,67.30000000000001,0,8,7,61.18750000000001,0,2.02,1,0,False
+single,1,Management (evening attendance),evening,Secondary,60.0,0,0,1,female,0,27,53.0,0,10,5,55.00000000000001,0,-3.12,1,0,False
+single,2,Nursing,daytime,Secondary,61.64999999999999,1,0,1,female,1,20,74.50714285,0,8,7,74.50714285,1,-3.12,1,0,False
+single,1,Nursing,daytime,Masters degree,63.5,1,0,1,male,0,26,65.23333335,2,10,7,66.53125,0,2.02,1,0,False
+single,1,Management (evening attendance),evening,Higher education (diploma),73.1,0,0,1,female,0,28,56.36363635,6,16,10,60.0,0,1.74,0,1,False
+single,3,Nursing,daytime,Secondary,63.0,1,0,1,male,0,18,61.440000000000005,0,15,5,61.440000000000005,1,1.74,1,0,False
+single,1,Management,daytime,Secondary,70.0,0,1,1,male,0,19,52.5,0,8,4,56.25,0,1.79,0,1,False
+single,5,Nursing,daytime,Secondary,71.15,1,0,1,female,0,18,64.14375,0,8,8,64.14375,0,-3.12,1,0,False
+single,3,Tourism,daytime,Secondary,62.25000000000001,1,0,1,female,0,19,58.33333335,0,14,3,60.0,0,0.32,0,1,False
+single,3,Nursing,daytime,Secondary,66.45,1,0,1,male,0,18,71.0,0,9,6,62.0,0,1.79,1,0,False
+single,5,Nursing,daytime,Secondary,63.800000000000004,1,0,1,female,0,18,64.5,0,15,7,60.714285700000005,0,-4.06,1,0,False
+single,2,Journalism and Communication,daytime,Secondary,63.45,1,0,1,female,1,19,65.83333335,0,6,6,65.0,0,2.02,1,0,False
+single,1,Agronomy,daytime,Secondary,58.45,0,0,1,male,0,19,68.33333335,0,10,4,61.25000000000001,0,0.79,1,0,False
+single,5,Informatics Engineering,daytime,Secondary,59.75,1,0,1,male,0,20,74.0,0,5,5,88.00000000000001,0,3.51,0,1,False
+single,1,Agronomy,daytime,Secondary,75.0,0,0,1,male,0,35,58.33333335,12,13,12,57.49999999999999,1,-4.06,0,1,False
+single,3,Oral Hygiene,daytime,Secondary,59.5,1,0,1,female,1,19,60.714285700000005,0,8,8,66.875,0,-0.92,1,0,False
+single,1,Nursing,daytime,Higher education (diploma),60.0,1,0,1,female,0,29,61.25000000000001,0,8,6,61.25000000000001,1,-1.7,1,0,False
+single,1,Journalism and Communication,daytime,Secondary,64.5,0,0,0,female,0,21,60.0,0,6,6,60.0,0,1.74,1,0,False
+single,1,Oral Hygiene,daytime,Secondary,61.4,0,0,1,female,0,26,60.83333335,0,8,8,58.375,0,0.79,1,0,False
+single,1,Communication Design,daytime,Technological specialization,59.9,0,0,1,male,0,21,60.0,5,10,7,60.714285700000005,0,1.79,1,0,False
+single,1,Animation and Multimedia Design,daytime,Secondary,65.8,1,0,1,female,0,21,69.375,4,13,9,63.5,1,3.51,1,0,False
+single,2,Nursing,daytime,Secondary,56.65,1,0,1,female,0,20,59.74999999999999,0,8,4,59.74999999999999,0,0.32,1,0,False
+married,1,Veterinary Nursing,daytime,Secondary,65.0,0,0,1,female,0,29,76.66666665000001,0,6,5,77.0,0,-3.12,1,0,False
+married,1,Management (evening attendance),evening,Higher education (diploma),80.0,0,0,1,female,0,30,73.0,0,5,5,77.0,0,-1.7,1,0,False
+married,1,Management,daytime,Secondary,50.0,1,0,1,female,0,54,62.30769229999999,10,13,10,55.49999999999999,1,-4.06,1,0,False
+married,1,Management (evening attendance),evening,Secondary,61.25000000000001,0,0,1,male,0,47,57.49999999999999,0,6,5,57.99999999999999,1,0.32,1,0,False
+single,1,Management (evening attendance),evening,Higher education (diploma),60.0,0,0,1,female,0,37,59.166666649999996,11,15,11,56.8181818,0,-1.7,0,1,False
+single,2,Veterinary Nursing,daytime,Secondary,58.050000000000004,1,0,1,female,0,18,65.76923074999999,0,12,3,55.00000000000001,0,-4.06,0,1,False
+single,6,Nursing,daytime,Secondary,70.55,1,0,1,female,0,20,65.0,0,8,8,71.0625,0,0.79,1,0,False
+single,6,Basic Education,daytime,Secondary,68.8,1,0,1,female,0,18,58.33333335,0,7,6,61.66666665,0,1.74,1,0,False
+single,1,Veterinary Nursing,daytime,Technological specialization,75.0,1,0,1,female,0,22,65.0,1,18,3,63.33333335,0,1.79,0,1,False
+single,1,Journalism and Communication,daytime,Secondary,65.55,1,0,1,male,0,19,58.33333335,0,10,3,63.33333335,0,0.32,0,1,False
+single,1,Basic Education,daytime,Secondary,67.5,0,0,1,female,0,29,55.7142857,2,11,8,56.875,0,-1.7,0,1,False
+single,1,Management (evening attendance),evening,Secondary,56.85,0,0,1,male,0,30,57.3076923,6,15,10,57.91666665,1,-0.92,0,1,False
+single,2,Nursing,daytime,Secondary,65.5,1,0,1,female,0,18,62.58333334999999,0,7,6,62.58333334999999,1,0.32,1,0,False
+single,1,Agronomy,daytime,Secondary,60.0,0,0,1,male,0,27,65.0,0,13,5,57.49999999999999,0,-0.92,0,1,False
+single,1,Tourism,daytime,Secondary,70.0,1,0,0,female,0,21,57.49999999999999,0,10,4,66.25,0,0.79,0,1,False
+single,2,Communication Design,daytime,Secondary,55.95,1,0,1,male,0,19,60.0,0,10,4,55.99999999999999,0,3.51,0,1,False
+single,1,Communication Design,daytime,Secondary,56.00000000000001,1,0,1,male,1,24,75.0,0,6,2,80.0,0,-4.06,0,1,False
+single,1,Advertising and Marketing Management,daytime,Secondary,58.099999999999994,0,0,1,male,0,24,64.2857143,0,12,5,68.33333335,0,2.02,1,0,False
+single,3,Basic Education,daytime,Secondary,62.55,1,0,1,female,1,19,67.5,0,8,5,64.0,0,-1.7,1,0,False
+single,1,Journalism and Communication,daytime,Secondary,62.1,1,0,1,female,0,18,65.0,0,7,6,65.71428569999999,0,-4.06,1,0,False
+married,1,Journalism and Communication,daytime,Secondary,77.75,0,0,1,male,0,47,69.0,0,13,4,70.0,0,-1.7,1,0,False
+single,1,Agronomy,daytime,Basic 3rd cycle (9th-11th),56.99999999999999,0,0,1,male,0,29,58.33333335,2,10,6,54.285714299999995,0,-4.06,1,0,False
+single,5,Nursing,daytime,Secondary,54.1,1,0,1,female,0,20,66.33333335,0,10,5,61.5,0,1.79,1,0,False
+married,1,Social Service,daytime,Secondary,67.0,0,0,1,male,1,40,61.66666665,0,10,4,63.74999999999999,0,3.51,1,0,False
+single,6,Nursing,daytime,Secondary,65.95,1,0,1,female,0,19,68.2142857,0,8,8,71.9375,0,0.79,1,0,False
+single,2,Nursing,daytime,Secondary,59.20000000000001,1,0,1,female,1,20,68.83333334999999,0,9,8,68.7222222,0,-0.92,1,0,False
+single,5,Communication Design,daytime,Secondary,63.05,1,0,0,female,0,18,57.49999999999999,0,6,6,60.83333335,0,0.32,0,1,False
+single,1,Social Service,daytime,Secondary,53.5,1,0,1,female,0,19,53.0,0,10,6,58.57142855000001,0,2.02,1,0,False
+facto union,1,Management (evening attendance),evening,Secondary,69.05,0,0,1,male,1,37,65.0,0,11,4,66.66666665000001,2,-0.92,1,0,False
+single,1,Equinculture,daytime,Secondary,60.0,1,0,1,female,0,21,57.49999999999999,0,13,5,55.00000000000001,1,-4.06,1,0,False
+single,1,Management (evening attendance),evening,Higher education (diploma),75.0,1,0,1,male,0,44,67.5,0,6,5,81.0,0,3.51,1,0,False
+single,1,Advertising and Marketing Management,daytime,Secondary,62.35000000000001,1,0,1,male,0,21,55.00000000000001,0,5,4,63.74999999999999,0,0.32,1,0,False
+single,2,Advertising and Marketing Management,daytime,Secondary,61.7,1,0,1,female,0,21,58.75,0,5,3,66.66666665000001,0,-3.12,0,1,False
+single,1,Veterinary Nursing,daytime,Secondary,55.00000000000001,0,0,1,female,0,28,60.0,0,14,4,60.0,0,2.02,1,0,False
+single,1,Tourism,daytime,Secondary,64.35,1,0,1,female,0,20,58.33333335,0,10,6,55.00000000000001,0,0.79,1,0,False
+single,6,Management,daytime,Secondary,60.0,1,0,1,male,0,19,63.0,0,8,3,63.33333335,0,3.51,0,1,False
+single,1,Communication Design,daytime,Secondary,68.0,1,1,0,female,1,19,59.166666649999996,0,8,6,64.375,0,1.74,0,1,False
+single,1,Veterinary Nursing,daytime,Secondary,69.0,1,0,1,female,1,21,67.5,0,6,3,76.66666665000001,0,3.51,1,0,False
+single,2,Advertising and Marketing Management,daytime,Secondary,58.050000000000004,1,0,1,male,1,18,61.25000000000001,0,5,5,61.0,0,-3.12,1,0,False
+single,1,Agronomy,daytime,Secondary,67.2,0,0,1,male,0,24,78.57142855,0,10,6,79.5,0,-4.06,1,0,False
+single,6,Social Service,daytime,Secondary,65.85,1,0,1,female,0,18,58.75,0,8,4,61.25000000000001,0,-3.12,1,0,False
+facto union,1,Social Service,daytime,Secondary,73.0,0,0,1,male,0,34,63.0,0,11,4,56.25,0,1.79,0,1,False
+single,3,Tourism,daytime,Secondary,58.45,1,1,1,female,0,18,61.0,0,10,4,61.25000000000001,0,1.79,1,0,False
+single,1,Communication Design,daytime,Secondary,71.5,1,1,1,female,0,21,57.00000000000001,0,8,5,61.0,0,-1.7,1,0,False
+single,4,Journalism and Communication,daytime,Secondary,62.9,0,1,1,male,0,20,61.0,0,6,6,61.66666665,0,-1.7,1,0,False
+single,1,Veterinary Nursing,daytime,Higher education (diploma),63.1,1,0,1,female,0,22,71.25,0,9,5,65.99999999999999,4,-3.12,1,0,False
+single,1,Social Service,daytime,Secondary,60.099999999999994,1,0,1,female,0,20,59.00000000000001,0,10,4,57.49999999999999,0,0.32,1,0,False
+single,1,Veterinary Nursing,daytime,Secondary,62.8,1,0,1,female,0,18,55.00000000000001,0,8,3,70.0,0,-1.7,0,1,False
+single,3,Journalism and Communication,daytime,Secondary,64.5,1,0,1,female,1,19,70.0,0,8,5,61.0,0,0.79,1,0,False
+single,1,Veterinary Nursing,daytime,Secondary,54.79999999999999,0,0,1,female,0,18,61.25000000000001,0,15,5,55.00000000000001,0,2.02,1,0,False
+single,2,Nursing,daytime,Secondary,63.05,1,0,1,female,1,19,62.47857145,0,9,7,61.214285700000005,0,2.02,1,0,False
+single,1,Management,daytime,Secondary,66.45,1,0,1,female,0,19,58.33333335,0,10,4,54.0,0,-3.12,1,0,False

@@ -1,0 +1,12 @@
+streamlit
+pandas
+seaborn
+matplotlib
+plotly
+pillow
+numpy
+scikit-learn==1.6.1
+ucimlrepo
+dill
+feature_engine
+catboost
