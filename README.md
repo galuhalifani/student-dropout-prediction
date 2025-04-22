@@ -58,7 +58,7 @@ galuh.adika@gmail.com
 
 ## Others
 ### Web App Snapshots
-![WebApp Home](homepage.png)
+![WebApp Home](screenshots/homepage.png)
 
-![WebApp Predict](predict_page.png)
+![WebApp Predict](screenshots/predict_page.png)
 ---
