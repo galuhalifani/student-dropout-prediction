@@ -4,8 +4,8 @@
 ```
 Main files:
 1. README.md - Desciption and context of project
-2. P1M2_galuh_alifani.ipynb - Notebook that contains data analysis and predictive model training
-3. P1M2_galuh_alifani_inf.ipynb - Notebook that contains data inference exercise using our predictive model from notebook #2 above
+2. modeling.ipynb - Notebook that contains data analysis and predictive model training
+3. inference.ipynb - Notebook that contains data inference exercise using our predictive model from notebook #2 above
 4. url.txt - URL of the deployed web app
 
 Other files:
